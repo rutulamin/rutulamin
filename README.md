@@ -8,7 +8,6 @@ I've total 3 years of experience as a Full Stack Developer. Worked in various do
 
 * 🌍  I'm based in Gujarat, India
 * ✉️  You can contact me at [rutulamin1998@gmail.com](mailto:rutulamin1998@gmail.com)
-* 🚀  I'm currently working on [AJIO](http://www.ajio.com)
 
 <a href="https://www.github.com/rutulamin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rutulamin?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
